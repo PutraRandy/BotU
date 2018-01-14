@@ -38,7 +38,7 @@ cl.loginResult()
 #satpam.login(qr=True)
 #satpam.loginResult()
 
-ki = kk = kc = ks = satpam
+ki = kk = kc = ks = cl
 
 print "Sukses Sayang"
 reload(sys)
