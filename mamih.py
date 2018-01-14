@@ -231,11 +231,11 @@ line://ti/p/~jkp4678
 KAC=[cl,ki,kk,kc,ks]
 DEF=[ki,kk,kc,ks]
 mid = cl.getProfile().mid
-Amid = ki.getProfile().mid
-Bmid = kk.getProfile().mid
-Cmid = kc.getProfile().mid
-Dmid = ks.getProfile().mid
-Smid = satpam.getProfile().mid
+#Amid = ki.getProfile().mid
+#Bmid = kk.getProfile().mid
+#Cmid = kc.getProfile().mid
+#Dmid = ks.getProfile().mid
+#Smid = satpam.getProfile().mid
 
 protectname = []
 protecturl = []
@@ -244,7 +244,7 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 targets = []
-Bots=[mid,Amid,Bmid,Cmid,Dmid]
+Bots=[mid]
 induk=[mid,"u12c5fc99b7a805a353472ae606e20bda"]
 Creator=["u12c5fc99b7a805a353472ae606e20bda"]
 admin=["u12c5fc99b7a805a353472ae606e20bda"]
